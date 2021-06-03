@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Married mens feast, or, The banquet at Barnet being an invitation to all those married persons who are master over their wives to a great dinner provided at Barnet on Michaelmas-day next : together with the articles to be enquired on of all those that are to be admitted to the feast, with the several dishes and dainties provided for them.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52011</idno><idno type="EEBO-CITATION">13587279</idno>
+  <idno type="VID">100589</idno>
+  <idno type="EEBO-PROQUEST">2248514122</idno>
+  
+            <idno type="STC">Wing M712</idno>
+            <idno type="STC">ESTC R13753</idno>
+            <idno type="OCLC">13587279</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 466:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Married mens feast, or, The banquet at Barnet being an invitation to all those married persons who are master over their wives to a great dinner provided at Barnet on Michaelmas-day next : together with the articles to be enquired on of all those that are to be admitted to the feast, with the several dishes and dainties provided for them.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap for John Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100589:1"/>
+            <pb facs="tcp:100589:1"/>
+            <p>THE MARRIED MENS FEAST.</p>
+            <p>OR, The Banquet at BAR-NET.</p>
+            <p>Being An Invitation to all those married persons who are Master over their Wives to a great dinner provided at <hi>Barnet</hi> on <hi>Michaelmas-day</hi> next.</p>
+            <p>Together With the Articles to be enquired on of all those that are to be admitted to the Feast, with the several dishes and dainties provided for them.</p>
+            <q>
+               <l>Come all away do not this Feast neglect</l>
+               <l>Unless it be such men as are <hi>Hen-peckt,</hi>
+               </l>
+               <l>For these there is no Room as you shall see</l>
+               <l>The others Welcome, Welcome; Welcome be.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Peter Lillicrap</hi> for <hi>John Clark</hi> at the <hi>Harp and Bible</hi> in <hi>West-Smith-Field.</hi> 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100589:2"/>
+            <pb n="1" facs="tcp:100589:2"/>
+            <head>The Married Mens Feast.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ome all away to this jovial Feast, unless you intend to go in the <hi>Hen peckt-Friggot,</hi> what let a woman domi<g ref="char:EOLhyphen"/>neer over you, call you Rogue, Rascal, perhaps Cuckold, nay and not belye you neither, for shame suffer it not, teach her manners with a Crab-tree Cudgel, she will never love variance after it, and so by consequence be the less saucy. Loose not the prerogative that is due to your Sex; to see a domineering Wife and a submissive Husband, is as prep<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ns a sight, as to see a knave in an honest Mans Doublet, or a Horse-courser professing honesty.</p>
+            <q>Aquavitae for a Mare, hang her Jade, hang her.</q>
+            <p>But my invitation is not to such Milk-sops that are Crow-trodden, or rather Hagg-ridden, (as all are that are <hi>Hen-peckt,</hi>) but to those Sons of <hi>Mars, Bellona's</hi> fellows, who knowing the Saddle belongs to their place refuse to hold the Stirr up.</p>
+            <q>
+               <l>Brave Martialists who sco n to lead such lives,</l>
+               <l>As be ore-topt by domineering wive,</l>
+               <l>Who though their tongues like peals of Gun-shot Thunder</l>
+               <l>Maintain their right and keep such damn'd Shrows under.</l>
+            </q>
+            <p>To all such, and none but such does my invitation belong, and there<g ref="char:EOLhyphen"/>fore if you are thus quallified, come boldly forth and hearken to the words of the Cryer.</p>
+            <p>O Yes, O Yes, O Yes.</p>
+            <p>
+               <hi>All manner of Married persons, high or low, rich or poor, wise or
+<pb n="2" facs="tcp:100589:3"/> simple, Gentlemen or Beggars, that can truly and honestly answer in the affirmative to all these questions hereafter mentioned; you are hereby invited</hi> Gratis <hi>to a special Feast provided for you at</hi> Barnet, <hi>in the County of</hi> Hartford <hi>upon</hi> Michaelmas <hi>day next between the hours of eleven and twelve, where you shall be accommodated with all things necessary for the dignity of such a Feast, and persons of so deserving merits.</hi>
+            </p>
+            <p>The Q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>stions.</p>
+            <p n="1">1. <hi>Does your Wife in the Win<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er time warm your bed for you against you are ready to go in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it, or if she have n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> coals ready, does she go into your place her self, and warm the same with her buttocks against your coming thereto?</hi>
+            </p>
+            <p n="2">2. <hi>Is she ready <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o run when you command her to fetch a pot of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eer, Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or the like, and does she ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e you a low courtesie when she delivers the po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="3">3. <hi>Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s she a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k you leave at any time when she goes abroad, and does she not stay above the prefixed time that you allow her.</hi>
+            </p>
+            <p n="4">4. <hi>Does she rise before you in the Morning, and make you a fire against your rising, wa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r slippers or shoes against your putting them on?</hi>
+            </p>
+            <p n="5">5. <hi>Does she if dinner or supper be ready w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en you are at the Ale-house or Tavern, subm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssively slay for your coming home, and not cut one bit thereof untill you are come.</hi>
+            </p>
+            <p n="6">6. <hi>If thou chance to be int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cated with the juyce of</hi> Bacchus, <hi>by drinking</hi> supernacculum, <hi>or stealing a loaf out of the</hi> Brewers basket, <hi>does thy wife the next morning make thee a Posset or a Caudle, saying pray Husband drink this it is good to settle your head, and if thou refuse to do it, or seem to be angry with her for troubling thee, does she put finger in the eye and weep.</hi>
+            </p>
+            <p n="7">7. <hi>Does she keep silence when you bid her hold her peace and not talk in her sleep; In sum, does she go at your command, come at your call, and be obedient to you in every thing she is appointed to do.</hi>
+            </p>
+            <q>
+               <l>If these things she perform<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (though you don't bast her)</l>
+               <l>Yet ore your Wife we will conclude you Master.</l>
+            </q>
+            <p>But alas where shall men find Wives thus quallified, truly I am a<g ref="char:EOLhyphen"/>fraid they must bespeak them, for there are no such ready made, but on the contrary most Women have tongues as long as a Bell-Rope, and as loud as the Clapper; like to a River always running and making as big <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noise as the Cataracts of <hi>Nilus,</hi> that deaf all the Inhabitants therea<g ref="char:EOLhyphen"/>bouts.</p>
+            <pb n="3" facs="tcp:100589:3"/>
+            <p>The premisses considered, it is to be thought there will not be such a great appearance of these <hi>married Master,</hi> but that the Town of <hi>Bar<g ref="char:EOLhyphen"/>net</hi> will be able to contain and maintain them all without the help of adjacent Parishes. For you must understand, that though here and there such a Rose may be found amongst so many Nettles, I mean such a wife may by chance be had as may comply with her husbands desires in one of those seven Interrogatories before mentioned, yet she is a Phaenix indeed (I <hi>doubt she is now dead</hi>) who never offended her Husband, but in all those seven Articles before recited, performeth them all, and every thing else she is by her Husband commanded to do.</p>
+            <p>And therefore I believe the Butchers may have no great trading for this Feast, since some suppose the leg of a Lark may satisfie all those that can swear truly their Wives are obedient to them in every thing they are bidden to do, and never offended their husbands in word or dee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Truly for my own part I would give all the Money in my little pocket for such a wife, but as for such women as scold, brawl, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ratch and bite, calling their Husbands fool, ass, lobcock and wittall, a wife of ginger<g ref="char:EOLhyphen"/>bread is better then they.</p>
+            <p>Yet do not doubt but <hi>England</hi> breeds some such men as without any exceptions may lay claim to dine at this Feast, to which people for their better encouragement, shall acquaint them with the dainties provided for their entertainment.</p>
+            <p>
+               <hi>Imprimis,</hi> for an <hi>Clia Podrida</hi> the hearts of four Game-Cocks, fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st par-boyl'd in the tears of a woman that cries because she cannot have the will of her Husband; then added to them the brains of eight Cock<g ref="char:EOLhyphen"/>sparrows, mixt with the pith or marrow of two town bulls, and so ser<g ref="char:EOLhyphen"/>ved up with Crab-t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee sauce.</p>
+            <p n="2">2. The roasted wings of four, mounting Larks to be divided into two messes, the one for the upper end, the other the lower end of the table.</p>
+            <p n="3">3. A <hi>Phoenix py<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> because rare men deserve rare meat, which is to be made Cast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-wise, with a sprig of palm or lawrel on the top of it be<g ref="char:EOLhyphen"/>tokeni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g victory.</p>
+            <p n="4">4. A dish or several sorts of <hi>Tongue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to signifie that being masters of their wives tongues, they may freely eat upon any kind of meat without exceptions.</p>
+            <p n="5">
+               <pb n="4" facs="tcp:100589:4"/>5. A <hi>Friccass</hi> made of several Rumps carbonado'd, <hi>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</hi> Capons, Sheep, Oxen, <hi>&amp;c.</hi> all which being well fryed are to be strowed over with the yolks of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urkeys Eggs, and so served up to the Table.</p>
+            <p n="6">6. A dish of Fish consisting of <hi>Carp</hi> and <hi>Pout,</hi> which is to be all eaten up, to signifie that all discontents in their wives is devoured.</p>
+            <p n="7">7. If the Company should increase bigger then is expected as to be a dozen persons or so, then there is seventhly to be a Gammon of Ba<g ref="char:EOLhyphen"/>con pye, to make them relish their liquor the better, to sing <hi>Old Rose</hi> and to drink a health to all those who will not so much unman them<g ref="char:EOLhyphen"/>selves as to be brought into subjection by a domineering woman.</p>
+            <p>Thus you see that as the Articles they are to be inquired of are seven, so the dishes of meat they are to be fed withall are likewise seven, there is also to be provided for them to drink seven several sorts of Eng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ish Liquors, <hi>viz.</hi> 1. <hi>Syder,</hi> whose Annigram is <hi>Desyr.</hi> 2. <hi>Perry.</hi> 3. <hi>Mead.</hi> 4. <hi>Bracket.</hi> 5. <hi>Pomperkin.</hi> 6. <hi>Ale.</hi> 7. <hi>Beer.</hi> Then after they have din'd they are also to be accommodated with seven several sorts of wine, <hi>viz.</hi> 1. <hi>Clarret.</hi> 2. <hi>White-Wine.</hi> 3. <hi>Rhenish-Wine.</hi> 4. <hi>Mus<g ref="char:EOLhyphen"/>cadine.</hi> 5 <hi>Ippocras.</hi> 6. <hi>Maligo.</hi> And 7. <hi>Canary</hi> the King of all wines, far surpassing all those Liquors the antient Poets do write of, as <hi>Helicon, Tempe, Aganippe,</hi> the <hi>Pegascan</hi> Fountain, the <hi>Thespian</hi> Spring, the <hi>Muses</hi> well, and abundance of such other unknown, rich invissible Regalies.</p>
+            <q>
+               <l>Sack does surpass them all to my own knowledge,</l>
+               <l>As <hi>Wisdomes School</hi> surpasses <hi>Gotam Colledge.</hi>
+               </l>
+               <l>Were I in <hi>Smith-field Rounds</hi> for<note n="*" place="margin">Honest Mr. B.</note>
+                  <hi>Ceorges</hi> sake</l>
+               <l>One Glass to whet my Muse thereof i'de take.</l>
+            </q>
+            <p>But when I once get into the praise of <hi>Sack,</hi> see how loath I am to get out of it, for the Anagram of <hi>Sack</hi> being <hi>Cask;</hi> when like <hi>Diogenes</hi> I am within the <hi>Cask,</hi> I could live and dye there. But let us proceed to tell you.</p>
+            <div type="part">
+               <head>The manner how this Feast is to be Ushered on to the Table.</head>
+               <p>Before the dishes, first march six Trumpeters playing on Bag-pipes the tune of <hi>Chevy Chase,</hi> a very martial tune.</p>
+               <pb n="5" facs="tcp:100589:4"/>
+               <p>In the second place go four <hi>Musimaners</hi> alias <hi>Fidlers</hi> playing on <hi>Jews-harps,</hi> vulgarly cal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by the boys of our town <hi>Jews-trumps.</hi>
+               </p>
+               <p>Then just before the dishes two lusty men, such as was <hi>Ascapart</hi> Page to <hi>Bevis</hi> of <hi>Southampton,</hi> to make way, and to keep the people off <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom thronging upon the Servitors.</p>
+               <p>Then marches a Gentleman Usher in a Red Scarlet Cloak, with white Silver Lace upon it.</p>
+               <p>After that comes the Seruitors bare-headed, with the dishes in their hands being all of them <hi>Hen-peckt</hi> fellows, and therefore wearing ropes about their shoulders instead of towels, to signifie what they deserve for suffering their wive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to become their Masters.</p>
+               <p>Thus have I given you a brief description of those dishes of dainties provided for the Feast, a dinner so rare that <hi>Lucullus</hi> nor <hi>Heliogaba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> those two famous <hi>Romans</hi> so eminent for the <hi>Gusto</hi> had never the like. And now methinks I hear the men of the Country discoursing of this Feast, one of them asking the other, what Neighbor do you intend to go to <hi>Barnet</hi> on <hi>Michaelmas</hi> day to this great dinner, to which the other (sighing) makes this reply; Oh neighbor I would I could lawfully do it, but my wife must be taken down thirteen pegs lower before I can be capable of so great a blessing, for the other day going to the Ale-house with a Customer of mine, though I stayed not above a quarter of an hour, and spent but onely one single two pence, yet when I came home, her clack did so go, and her tongue rurg such a thundring peal, that two Mill-Clappers, three hand guns, and four peices of Ordnance could not make a greater noise, so that I was forced to beg her pardon and desire her to be quiet, to the ever uncapacitating me of being ca<g ref="char:EOLhyphen"/>piable for eating of <hi>Phoenix-pye</hi> at <hi>Barnet</hi> on a <hi>Michaelmas day.</hi>
+               </p>
+               <p>But women are not only domineering over their husbands, but now a days they are grown to such a height that every <hi>Wring-spicket</hi> will be domineering both in words and blows over other men.</p>
+               <q>
+                  <l>First scold and rail their patience to perplex</l>
+                  <l>And then with Law-suits seek them for to vex.</l>
+               </q>
+               <p>And therefore let every one have a care how they marry, <hi>Metellus</hi> being asked by <hi>Pyso</hi> why he married his Son being so young and before he was wise (said he) if my Son grow to be wise he will never marry.</p>
+               <pb n="6" facs="tcp:100589:5"/>
+               <p>Then let all Land-men that would not go to Sea in the <hi>Hen-peckt Friggot,</hi> at their first mitation into the state of Matrimony, be sure to keep the bridle in their own hands, they be not jade-ridden by a scolding wife, for win the day at first and you may with ease keep it afterwards, but if (fie on such a but) you yeild the day at first, your case is very pittiful, yea so pittiful that next to a man riding up <hi>Hal<g ref="char:EOLhyphen"/>born-hill</hi> Westward for Flounders, I know none worse.</p>
+               <epigraph>
+                  <q>
+                     <l>Fore-warn'd, fore-arm'd for this you may protest,</l>
+                     <l>Those that are <hi>Hen-peckt</hi> come not to this Fenst.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100589:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
